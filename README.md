@@ -1,8 +1,8 @@
 # Jensen-EDM-2019
 This repository is linked to a paper at EDM 2019 - "Generalizability of Sensor-Free Affect Detection Models in 
-a Longitudinal Dataset of Tens of Thousands of Students"
+a Longitudinal Dataset of Tens of Thousands of Students" published at the 2019 Educational Data Mining Conference
 
-When this paper is published, a link will be posted here (Expected July 2019).
+You can find the paper at https://drive.google.com/file/d/19MVIAoCvFGb2rCUZyb5r4IdD0HAHLfEH/view.
 
 The main results are found in the Jupyter notebook and can run directly in the notebook. The code is written in Python 3.
 
